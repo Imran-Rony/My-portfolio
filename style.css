@@ -78,15 +78,13 @@ section{
     border-image-slice: 1;
 }
 #baby{
-    padding: 20px 40px 0 20px;
-}
-#baby{
     
     padding-left: 40px;
     padding-top: 10px;
     border-left: 7px solid ;
     border-image: linear-gradient(lightsalmon,tomato);
     border-image-slice:1;
+  
 }
 footer{
     text-align: center;
